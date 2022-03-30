@@ -12,7 +12,7 @@
 7. [License](#license)
 8. [Questions](#questions)
 ## Application Video
-* (https://drive.google.com/file/d/1kcOmTgBKe_FdN-TRhKEjsqLlwdxBKq0U/view?usp=sharing)
+* (https://drive.google.com/file/d/1oBF9EJz2aIPzpKK30KWmvU988IXZqDvI/view?usp=sharing)
 ## Description
 * This program creates back end for electronic commerce web sites. It uses Express API and Sequelize with MySQL database.
 ## Installation Instructions
